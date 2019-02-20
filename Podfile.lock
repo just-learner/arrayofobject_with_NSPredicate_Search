@@ -1,0 +1,16 @@
+PODS:
+  - NSPredicateSearch (0.1.2)
+
+DEPENDENCIES:
+  - NSPredicateSearch (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NSPredicateSearch
+
+SPEC CHECKSUMS:
+  NSPredicateSearch: 15a34e53b404aa9fba5af12f94b1f6af725184de
+
+PODFILE CHECKSUM: 955c407abe4280b35491397c75108cf69569b868
+
+COCOAPODS: 1.6.0
